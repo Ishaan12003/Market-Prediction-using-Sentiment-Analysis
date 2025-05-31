@@ -244,4 +244,7 @@ wheels/
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-Thumbs.dbcreds.env
+Thumbs.db
+
+# API credentials
+creds.env
